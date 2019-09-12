@@ -1,4 +1,13 @@
+.navbar-image{
+    max-width: 100px;
 
-.card-body{
-    background-color:lightblue;
+}
+
+.mainStoryButton{
+    background-color: red;
+}
+
+
+.article-box{
+    background-color: black;
 }
